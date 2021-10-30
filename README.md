@@ -4,3 +4,5 @@ Tienda virtual creado para practicar conocimientos utilizando React, Material UI
 
 [Ver demo](https://pblov-testecommerce.netlify.app).
 
+TODO: validaciones en formulario de checkout.
+
